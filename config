@@ -1,0 +1,4 @@
+<connectionStrings>
+	<add name="con" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=X:\000 S T U D Y\SEM 4\drs\drs\App_Data\drs.mdf;Integrated Security=True"
+		 providerName="System.Data.SqlClient"/>
+</connectionStrings>
